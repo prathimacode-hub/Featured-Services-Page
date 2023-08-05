@@ -1,4 +1,4 @@
-# Featured-Services-Page
+# Featured-Services-Page 👋
 
 
 Hola Everyone!! Welcome to my Services Page. I'm Prathima Kadari, a CTO for an organization called Pendler. 
@@ -108,6 +108,11 @@ GirlScript Winter Of Contributing - Top Supervisor (Data Science with Python)
 Top 1 % in Github - Contributions & Commits 2021
 
 
+If you would like to connect with me for collaborations, drop me an email to kadariprathima4@gmail.com
+
+
+<!-- Partnership Manager- Asia : Omdena | CTO@Micro | CTO@Pendler | Freelancing, Projects, Internship, Experience, Professional Summary, About 
+
 ## Volunteering
 
 SAWO Labs - Open Source Contributor
@@ -122,8 +127,4 @@ MLH Local Hack Day Share- EddieHub Community Member
 
 Hack The Mountains Sudan Tech - Hack Ambassador
 
-
-If you would like to connect with me for collaborations, drop me an email to kadariprathima4@gmail.com
-
-
-<!-- Partnership Manager- Asia : Omdena | CTO@Micro | CTO@Pendler | Freelancing, Projects, Internship, Experience, Professional Summary, About -->
+-->
