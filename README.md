@@ -26,7 +26,7 @@ Top 10 Best Women CTO's in India : Nov 2022 Edition - Women Entrepreneur Network
 
 Streamlit Community Weekly RoundUp - (Project : Finding Paths to Safety Following Natural Disasters) - https://discuss.streamlit.io/t/weekly-roundup-ag-grid-tutorials-custom-components-web-scraping-made-easy-and-more/23025
 
-Women Tech Network - Global Awards 2021 Nominee for "Mentor of the Year" 
+WomenTech Network Community - Global Awards 2021 Nominee for "Mentor of the Year" 
 
 
 ## SpeakUps
@@ -126,4 +126,4 @@ Hack The Mountains Sudan Tech - Hack Ambassador
 If you would like to connect with me for collaborations, drop me an email to kadariprathima4@gmail.com
 
 
-<!-- Partnership Manager- Asia : Omdena | CTO@Micro | CTO@Pendler-->
+<!-- Partnership Manager- Asia : Omdena | CTO@Micro | CTO@Pendler | Freelancing, Projects, Internship, Experience, Professional Summary, About -->
