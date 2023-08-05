@@ -7,7 +7,7 @@ Coming to my exposure, I have been involved in Speaking and Blogging opportuniti
 Here are few to mention:
 
 
-##Coming Soon
+## Coming Soon
 
 Data Science Community Offline SRM KTR : Aug 23rd, 2023 (Topic : )
 
@@ -18,7 +18,7 @@ TheGuidingPoint - GenAI Mentor
 DevBytes Blog Article (Topic : )
 
 
-##Featured
+## Featured
 
 BeSpoke Diaries - (Topic - An Invisible Ladder : Funnel Your Challenges Into An Opportunity)
 
@@ -29,7 +29,7 @@ Streamlit Community Weekly RoundUp - (Project : Finding Paths to Safety Followin
 Women Tech Network - Global Awards 2021 Nominee for "Mentor of the Year" 
 
 
-##SpeakUps
+## SpeakUps
 
 Tech-Cast Open Source Community VIT AP Online - Aug 5th, 2023 (Topic : How To Build & Embrace Your Data Science Career)
 
@@ -42,7 +42,16 @@ Omdena Japan Chapter - (Topic : Predicting Safe Paths following Natural Disaster
 The Guiding Voice - (Topic : Getting Started with Open Source As A Beginner) : https://www.youtube.com/watch?v=4197n5XQX5k
 
 
-##Judging
+## Blogging
+
+Omdena Hyderabad Chapter : Text Based Healthcare Chatbot supporting Admitted Patients (Blog Mentor)
+
+Omdena Azolla : Predicting Soil Organic Carbon Changes using RothC & Machine Learning (Blog Writer)
+
+Omdena Kutch Chapter : Applying Satellite Imagery for Water Quality Monitoring (Blog Writer)
+
+
+## Judging
 
 African Global StartUp Awards 2023 - Jury Member
 
@@ -53,7 +62,7 @@ HackOdisha NIT Rourkela - Hack Judge
 Hack4Inclusion - Hack Judge
 
 
-##Mentoring 
+## Mentoring 
 
 NJACK, IIT Patna and Coding Club, IIT Guwahati - Dev-Mint Repo Mentor
 
@@ -84,16 +93,7 @@ DevIncept AI-ML for Newborn Babies in Healthcare - Hack Mentor
 HackMakers SmartCities Hackathon - Hack Mentor
 
 
-##Blogging
-
-Omdena Hyderabad Chapter : Text Based Healthcare Chatbot supporting Admitted Patients (Blog Mentor)
-
-Omdena Azolla : Predicting Soil Organic Carbon Changes using RothC & Machine Learning (Blog Writer)
-
-Omdena Kutch Chapter : Applying Satellite Imagery for Water Quality Monitoring (Blog Writer)
-
-
-##Recognition
+## Recognition
 
 CSI RAIT Open Code - Top Mentor (FarmArk)
 
@@ -108,7 +108,7 @@ GirlScript Winter Of Contributing - Top Supervisor (Data Science with Python)
 Top 1 % in Github - Contributions & Commits 2021
 
 
-##Volunteering
+## Volunteering
 
 SAWO Labs - Open Source Contributor
 
