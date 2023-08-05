@@ -5,11 +5,11 @@ Hola Everyone!! Welcome to my Services Page. I'm Prathima Kadari, a Chief Techno
 
 - Keynote Speaker Through The Lens Of My Expertise
 - 
-- Subject Matter Expert with an Industry Exposure to Shape the Products
+- Subject Matter Expert with an Industry Exposure to Build the Products
 - 
-- Conducted more than 200+ Sessions as a Technical Mentor For Budding Developers Till Date
+- Conducted more than 200+ Sessions as a Technical Mentor For Budding Developers
 - 
-- Spreading Valuable Content & Learnings as a Writer to the Clients
+- Spreading Valuable Content as a Writer to the Clients
 - 
 - A Passionate Entrepreneur & an Efficient Jury Member
 
@@ -151,3 +151,4 @@ MLH Local Hack Day Share- EddieHub Community Member
 Hack The Mountains Sudan Tech - Hack Ambassador
 
 -->
+
