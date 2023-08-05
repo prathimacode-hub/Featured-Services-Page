@@ -1,10 +1,20 @@
-# Featured-Services-Page 👋
+# Welcome To My Featured-Services-Page 👋
 
 
-Hola Everyone!! Welcome to my Services Page. I'm Prathima Kadari, a CTO for an organization called Pendler. 
+Hola Everyone!! Welcome to my Services Page. I'm Prathima Kadari, a Chief Technology Officer for Pendler - Ride-Hailing Platform. 
 
-Coming to my exposure, I have been involved in Speaking and Blogging opportunities with domains I feel connected to and got featured among the communities. Along with this, I'm pretty into Mentoring & Judging the Events / Programs / Courses.
-Here are few to mention:
+- Keynote Speaker Through The Lens Of My Expertise
+- 
+- Subject Matter Expert with an Industry Exposure to Shape the Products
+- 
+- Conducted more than 200+ Sessions as a Technical Mentor For Budding Developers Till Date
+- 
+- Spreading Valuable Content & Learnings as a Writer to the Clients
+- 
+- A Passionate Entrepreneur & an Efficient Jury Member
+
+
+Being a person who loves engaging, I have been actively involved in Speaking and Blogging opportunities with domains I feel connected to and got featured amongst the Communities / Networks. Along with this, I'm pretty much into Mentoring & Judging the Events / Programs / Courses to make a difference.
 
 
 ## Coming Soon
@@ -108,7 +118,20 @@ GirlScript Winter Of Contributing - Top Supervisor (Data Science with Python)
 Top 1 % in Github - Contributions & Commits 2021
 
 
+## Social Media Links :
+
+LinkedIn : https://www.linkedin.com/in/prathima-kadari/
+
+Twitter : https://twitter.com/prathima_kadari
+
+
 If you would like to connect with me for collaborations, drop me an email to kadariprathima4@gmail.com
+
+
+<h2>⭐Give this Repository a Star</h2>
+
+© 2023 Prathima Kadari
+
 
 
 <!-- Partnership Manager- Asia : Omdena | CTO@Micro | CTO@Pendler | Freelancing, Projects, Internship, Experience, Professional Summary, About 
