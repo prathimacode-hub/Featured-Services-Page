@@ -27,7 +27,7 @@ TheGuidingPoint - GenAI Mentor (TBD))
 
 Top 10 Best Women CTO's in India : Nov 2022 Edition - Women Entrepreneur Network : (Topic : Technology Leader With An Eye For Perfection - https://womenentrepreneurindia.com/digital-magazine/women-ctos-november-2022/#page=22)
 
-WomenTech Network Community - Global Awards 2021 Nominee for "Mentor of the Year" 
+WomenTech Network Community : Global Awards 2021 Nominee for "Mentor of the Year" - https://www.womentech.net/nominee/Prathima/Kadari/65790
 
 
 ## SpeakUps
