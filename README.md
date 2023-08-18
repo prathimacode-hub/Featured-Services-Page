@@ -148,14 +148,14 @@ Top 1 % in Github - Contributions & Commits in 2021 & 2022 (Below Rank 7)
 
 Streamlit Community Weekly RoundUp - (Project : Finding Paths to Safety Following Natural Disasters) - https://discuss.streamlit.io/t/weekly-roundup-ag-grid-tutorials-custom-components-web-scraping-made-easy-and-more/23025
 
-
+<!-- 
 ## Highlight Projects
 
 
 ## Open Source Contributor
 
 - SAWO Labs
-
+-->
 
 ## Social Media Links :
 
