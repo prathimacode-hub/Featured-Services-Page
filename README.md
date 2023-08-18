@@ -53,11 +53,11 @@ BeSpoke Diaries - An Invisible Ladder : Funnel Your Challenges Into An Opportuni
 
 DevBytes - (Blog Writer)
 
-Omdena Hyderabad Chapter - Text Based Healthcare Chatbot supporting Admitted Patients (Blog Mentor)
+Omdena Hyderabad Chapter - Text Based Healthcare Chatbot supporting Admitted Patients (Blog Mentor) : https://omdena.com/blog/healthcare-chatbot/
 
-Omdena Azolla - Predicting Soil Organic Carbon Changes using RothC & Machine Learning (Blog Writer)
+Omdena Azolla - Predicting Soil Organic Carbon Changes using RothC & Machine Learning (Blog Writer) : https://omdena.com/blog/measuring-soil-organic-carbon-changes-using-rothc/
 
-Omdena Kutch Chapter - Applying Satellite Imagery for Water Quality Monitoring (Blog Writer)
+Omdena Kutch Chapter - Applying Satellite Imagery for Water Quality Monitoring (Blog Writer) : https://omdena.com/blog/satellite-imagery-for-water-quality-monitoring/
 
 
 ## Judging
