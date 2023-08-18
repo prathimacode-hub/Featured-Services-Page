@@ -4,13 +4,13 @@
 Hola Everyone!! Welcome to my Services Page. I'm Prathima Kadari, a Chief Technology Officer for Pendler - Ride-Hailing Platform. 
 
 - Keynote Speaker Through The Lens Of My Expertise
-- 
+  
 - Subject Matter Expert with an Industry Exposure to Build the Products
-- 
+  
 - Conducted more than 200+ Sessions as a Technical Mentor For Budding Developers
-- 
-- Spreading Valuable Content as a Writer to the Clients
-- 
+  
+- Spreading Valuable Content as a Blog Writer to the Clients
+  
 - A Passionate Entrepreneur & an Efficient Jury Member
 
 
@@ -21,16 +21,10 @@ Being a person who loves engaging, I have been actively involved in Speaking and
 
 Data Science Community Offline SRM KTR : Aug 23rd, 2023 (Topic : )
 
-GPT Coding for FrontEnd Developers Conference Online : Aug 24th, 2023 (Topic : Useful Tips To Enhance Your FrontEnd Data Visualization Effectively)
-
 TheGuidingPoint - GenAI Mentor
-
-DevBytes Blog Article (Topic : )
 
 
 ## Featured
-
-BeSpoke Diaries - (Topic - An Invisible Ladder : Funnel Your Challenges Into An Opportunity)
 
 Top 10 Best Women CTO's in India : Nov 2022 Edition - Women Entrepreneur Network : (Topic : Technology Leader With An Eye For Perfection - https://womenentrepreneurindia.com/digital-magazine/women-ctos-november-2022/#page=22)
 
@@ -41,11 +35,15 @@ WomenTech Network Community - Global Awards 2021 Nominee for "Mentor of the Year
 
 ## SpeakUps
 
-Tech-Cast Open Source Community VIT AP Online - Aug 5th, 2023 (Topic : How To Build & Embrace Your Data Science Career)
+GPT Coding for FrontEnd Developers Conference Online : Aug 24th, 2023 (Topic : Useful Tips To Enhance Your FrontEnd Data Visualization Effectively)
+
+Tech-Cast Open Source Community VIT AP Online - Aug 5th, 2023 (Topic : How To Build & Embrace Your Data Science Career) 
 
 TGV Telugu - (Topic : How Leadership Impacts To The Career Growth) : https://www.youtube.com/watch?v=w8CF3V0FNRA
 
-Women Coding Awareness ANITS Online - (Topic : Strategy To Crack A Hackathons)
+Women Coding Awareness ANITS Online - Mar 18th, 2023 (Topic : Strategy To Crack The Hackathons)
+
+Hackmakers Ambassador Talk Series - (Topic : Demystifying Machine Learning To Develop Smarter Solutions) : https://www.youtube.com/watch?v=fOCmCr7z9XQ
 
 Omdena Japan Chapter - (Topic : Predicting Safe Paths following Natural Disasters in Japan) : https://www.youtube.com/watch?v=7tRjSefHP0w
 
@@ -54,11 +52,15 @@ The Guiding Voice - (Topic : Getting Started with Open Source As A Beginner) : h
 
 ## Blogging
 
-Omdena Hyderabad Chapter : Text Based Healthcare Chatbot supporting Admitted Patients (Blog Mentor)
+BeSpoke Diaries - An Invisible Ladder : Funnel Your Challenges Into An Opportunity (Blog Writer)
 
-Omdena Azolla : Predicting Soil Organic Carbon Changes using RothC & Machine Learning (Blog Writer)
+DevBytes - (Blog Writer)
 
-Omdena Kutch Chapter : Applying Satellite Imagery for Water Quality Monitoring (Blog Writer)
+Omdena Hyderabad Chapter - Text Based Healthcare Chatbot supporting Admitted Patients (Blog Mentor)
+
+Omdena Azolla - Predicting Soil Organic Carbon Changes using RothC & Machine Learning (Blog Writer)
+
+Omdena Kutch Chapter - Applying Satellite Imagery for Water Quality Monitoring (Blog Writer)
 
 
 ## Judging
@@ -115,7 +117,7 @@ Delta Winter Of Code - Best Mentor (Fiesta Of Projects )
 
 GirlScript Winter Of Contributing - Top Supervisor (Data Science with Python)
 
-Top 1 % in Github - Contributions & Commits 2021
+Top 1 % in Github - Contributions & Commits in 2021 & 2022 (Below Rank 7)
 
 
 ## Social Media Links :
@@ -125,7 +127,7 @@ LinkedIn : https://www.linkedin.com/in/prathima-kadari/
 Twitter : https://twitter.com/prathima_kadari
 
 
-If you would like to connect with me for collaborations, drop me an email to kadariprathima4@gmail.com
+If you would like to connect with me for any business / paid collaborations, shoot me an email to kadariprathima4@gmail.com
 
 
 <h2>⭐Give this Repository a Star</h2>
