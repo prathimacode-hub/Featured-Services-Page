@@ -62,7 +62,15 @@ Omdena Kutch Chapter - Applying Satellite Imagery for Water Quality Monitoring (
 
 ## Judging
 
-African Global StartUp Awards 2023 - Jury Member
+Global Africa StartUp Awards 2022 - Pre-Jury Member (Mar, 2023)
+
+Global Africa StartUp Awards 2021 - Regional Jury Member (Oct, 2022)
+
+Global ASEAN StartUp Awards 2021 - Jury Member (Jun, 2022)
+
+Global Euro-Asian StartUp Awards 2021 - Jury Member (July, 2022)
+
+Global Africa StartUp Awards 2020 - Regional Jury Member (Nov, 2021)
 
 NIT Trichy Ideathon Conclave Event - Key Judge
 
