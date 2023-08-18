@@ -66,9 +66,17 @@ African Global StartUp Awards 2023 - Jury Member
 
 NIT Trichy Ideathon Conclave Event - Key Judge
 
+Kurinji Hacks - Hack Judge
+
+Hacklahoma Hacks - Hack Judge
+
+TOHacks - Hack Judge
+
 HackOdisha NIT Rourkela - Hack Judge
 
 Hack4Inclusion - Hack Judge
+
+Creatica Hacks - Hack Judge
 
 
 ## Mentoring 
@@ -91,6 +99,10 @@ Delta Winter Of Code - Fiesta Of Projects Mentor
 
 Hacktoberfest - Project Maintainer and Mentor
 
+Kurinji Hacks - Hack Mentor
+
+Hacklahoma - Hack Mentor
+
 LetsGrowMore - Awesome_Python Scripts & ML Project Kart Project Admin & Mentor
 
 HackOdisha NIT Rourkela - Hack Mentor
@@ -99,7 +111,17 @@ Hack4Inclusion - Hack Mentor
 
 DevIncept AI-ML for Newborn Babies in Healthcare - Hack Mentor
 
+Stony Brook University - Hack Mentor
+
 HackMakers SmartCities Hackathon - Hack Mentor
+
+Girl Develop It - Hack Mentor
+
+Shell Hacks - Hack Mentor
+
+Creatica - Hack Mentor
+
+TOHacks - Hack Mentor
 
 
 ## Recognition
@@ -120,6 +142,11 @@ Streamlit Community Weekly RoundUp - (Project : Finding Paths to Safety Followin
 
 
 ## Highlight Projects
+
+
+## Open Source Contributor
+
+- SAWO Labs
 
 
 ## Social Media Links :
