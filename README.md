@@ -13,22 +13,19 @@ Hola Everyone!! Welcome to my Services Page. I'm Prathima Kadari, a Chief Techno
   
 - A Passionate Entrepreneur & an Efficient Jury Member
 
-
 Being a person who loves engaging, I have been actively involved in Speaking and Blogging opportunities with domains I feel connected to and got featured amongst the Communities / Networks. Along with this, I'm pretty much into Mentoring & Judging the Events / Programs / Courses to make a difference.
 
 
 ## Coming Soon
 
-Data Science Community Offline SRM KTR : Aug 23rd, 2023 (Topic : )
+Data Science Community Offline SRM KTR : TBD (Topic : )
 
-TheGuidingPoint - GenAI Mentor
+TheGuidingPoint - GenAI Mentor (TBD))
 
 
 ## Featured
 
 Top 10 Best Women CTO's in India : Nov 2022 Edition - Women Entrepreneur Network : (Topic : Technology Leader With An Eye For Perfection - https://womenentrepreneurindia.com/digital-magazine/women-ctos-november-2022/#page=22)
-
-Streamlit Community Weekly RoundUp - (Project : Finding Paths to Safety Following Natural Disasters) - https://discuss.streamlit.io/t/weekly-roundup-ag-grid-tutorials-custom-components-web-scraping-made-easy-and-more/23025
 
 WomenTech Network Community - Global Awards 2021 Nominee for "Mentor of the Year" 
 
@@ -118,6 +115,11 @@ Delta Winter Of Code - Best Mentor (Fiesta Of Projects )
 GirlScript Winter Of Contributing - Top Supervisor (Data Science with Python)
 
 Top 1 % in Github - Contributions & Commits in 2021 & 2022 (Below Rank 7)
+
+Streamlit Community Weekly RoundUp - (Project : Finding Paths to Safety Following Natural Disasters) - https://discuss.streamlit.io/t/weekly-roundup-ag-grid-tutorials-custom-components-web-scraping-made-easy-and-more/23025
+
+
+## Highlight Projects
 
 
 ## Social Media Links :
